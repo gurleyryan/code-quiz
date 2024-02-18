@@ -21,10 +21,10 @@ Built a timed coding quiz with multiple-choice questions. This app runs in the b
 
 Pressing the Start Quiz button will begin the timer and initialize the questions. Select from the four multiple choice options as quickly as possible, but be careful not to choose incorrectly else your score will be penalized. Once complete, enter your initials to save your score. You can then begin again, if you so choose.
 
-![Alt Text](assets/images/CodeQuiz1 "Website Screenshot")
-![Alt Text](assets/images/CodeQuiz2 "Website Screenshot")
-![Alt Text](assets/images/CodeQuiz3 "Website Screenshot")
-![Alt Text](assets/images/CodeQuiz4 "Website Screenshot")
+![Alt Text](assets/images/CodeQuiz1.png "Website Screenshot")
+![Alt Text](assets/images/CodeQuiz2.png "Website Screenshot")
+![Alt Text](assets/images/CodeQuiz3.png "Website Screenshot")
+![Alt Text](assets/images/CodeQuiz4.png "Website Screenshot")
 
 ## Contributing
 
